@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-const apiKey = 'TWOJ_KLUCZ_API';  // Zamień na swój klucz API z ExchangeRate
+const apiKey = '9e43368e71def7c2fc24b0085298971f';   
 const baseUrl = 'https://v6.exchangerate-api.com/v6/';
 
 async function getExchangeRate(currency) {
